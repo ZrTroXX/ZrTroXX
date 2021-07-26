@@ -8,17 +8,10 @@
 -------------------------------------------------------------------------------------------------------
  📐 Languages and Tools
 
-<img align="left" height="32px" width="32px" alt="HTML logo" src="https://bit.ly/3gP4Qgx">
-<img align="left" height="32px" width="32px" alt="CSS logo" src="https://bit.ly/37iML7j">
 <img align="left" height="32px" width="32px" alt="Node.js logo" src="https://bit.ly/3rw9m8C">
 <img align="left" height="32px" width="32px" alt="Python logo" src="https://bit.ly/3nk4bGw">
-<img align="left" height="32px" width="32px" alt="GitHub logo" src="https://bit.ly/3nlY4kZ">
 <br/>
 
 -------------------------------------------------------------------------------------------------------
- ⭐ Reseaux
-
-https://www.youtube.com/channel/UC6eLmXhePrO9psLX8aU9vHA
-https://www.youtube.com/channel/UCs68bsGCY8qu3Nr91eC2F-g
 
 -------------------------------------------------------------------------------------------------------
