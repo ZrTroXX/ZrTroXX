@@ -10,7 +10,7 @@
 
 <img align="left" height="32px" width="32px" alt="Node.js logo" src="https://bit.ly/3rw9m8C">
 <img align="left" height="32px" width="32px" alt="Python logo" src="https://bit.ly/3nk4bGw">
-<img align="left" height="32px" width="32px" alt="FiveM logo" src="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.6435-9/79447082_107065667465220_2515133372523610112_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=973b4a&_nc_ohc=W8m_NPICLrMAX8kh4jR&_nc_ht=scontent-cdg2-1.xx&oh=ffbc130e25b8ef43ed5de795e429909b&oe=61260825">
+<img align="left" height="32px" width="32px" alt="FiveM logo" src="https://img.icons8.com/color/50/000000/fivem.png">
 <br/>
 
 -------------------------------------------------------------------------------------------------------
