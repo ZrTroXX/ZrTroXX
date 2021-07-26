@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------------------------
  👋 Salut je suis Ayoub
 
-- 🌱 J'apprends actuellement le Pyton
+- 🌱 J'apprends actuellement le Python
 - 😄 https://discord.gg/SDTVuqKZyu
 -------------------------------------------------------------------------------------------------------
  📐 Languages and Tools
