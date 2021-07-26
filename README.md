@@ -1,12 +1,10 @@
 -------------------------------------------------------------------------------------------------------
 ![Intro GIF](https://steamuserimages-a.akamaihd.net/ugc/966480504636110298/611BA65F8E35F3D9CA2E6F4FC31A6CCE29098859/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 -------------------------------------------------------------------------------------------------------
- 👋 Salut je suis Werax
+ 👋 Salut je suis Ayoub
 
-- 🌱 J'apprends actuellement HTML & CSS
-- 🤔 Je recherche de l'aide pour **apprendre le python etc**
-- 😄 https://discord.gg/tFUCd4yfjw
-- ⚡ Discord-wyd Kex#6363
+- 🌱 J'apprends actuellement le Pyton
+- 😄 https://discord.gg/SDTVuqKZyu
 -------------------------------------------------------------------------------------------------------
  📐 Languages and Tools
 
