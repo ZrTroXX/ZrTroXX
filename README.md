@@ -1,9 +1,9 @@
 -------------------------------------------------------------------------------------------------------
 ![Intro GIF](https://steamuserimages-a.akamaihd.net/ugc/966480504636110298/611BA65F8E35F3D9CA2E6F4FC31A6CCE29098859/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 -------------------------------------------------------------------------------------------------------
- 👋 Salut je m'appel Ayoub et j'ai 13 ans
+ 👋 Salut je m'appel Ayoub et j'ai 14 ans
 
-- 🌱 J'apprends actuellement le HTML et le CSS
+- 🌱 J'apprends actuellement le LUA (FiveM)
 - 😄 https://discord.gg/SDTVuqKZyu
 -------------------------------------------------------------------------------------------------------
  📐 Languages and Tools
